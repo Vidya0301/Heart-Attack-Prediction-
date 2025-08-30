@@ -114,6 +114,3 @@ Run the notebook or script:
 
 jupyter notebook heart_attack_prediction.ipynb
 
-👩‍💻 Author
-
-Your Name – Your GitHub Profile
